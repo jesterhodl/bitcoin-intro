@@ -98,16 +98,16 @@ zugreifen.
 ## Schritt 3. Warum sollte man Bitcoin verwenden?
 *Ziel: Erfahre, warum Bitcoin nützlich ist*
 
-1. Lese '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Warum Bitcoin</a>' von [Wiz](https://twitter.com/wiz)
-2. Lese '<a href="https://medium.com/aprycotmedia/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727" target="_blank">Das bullische Argument für Bitcoin</a>' von [Vijay Boyapati](https://twitter.com/real_vijay)
+1. Lies '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Warum Bitcoin</a>' von [Wiz](https://twitter.com/wiz)
+2. Lies '<a href="https://medium.com/aprycotmedia/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727" target="_blank">Das bullische Argument für Bitcoin</a>' von [Vijay Boyapati](https://twitter.com/real_vijay)
 3. Schau dir '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Warum Bitcoin Wichtig Ist</a>' von [Aleks Svetski](https://twitter.com/AleksSvetski) an
 
 -----
 
 ## Schritt 4. Was ist Bitcoin?
-*Aim: Erfahre, was Bitcoin ist*
+*Ziel: Erfahre, was Bitcoin ist*
 
-1. Lese '<a href="https://bitcoin-only.com/what-is-bitcoin" target="_blank">Was ist Bitcoin</a>' von [Greg Walker](https://twitter.com/in3rsha)
+1. Lies '<a href="https://bitcoin-only.com/what-is-bitcoin" target="_blank">Was ist Bitcoin</a>' von [Greg Walker](https://twitter.com/in3rsha)
 2. Schau dir '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' von [RT](https://twitter.com/RT_com) an
 
 -----
@@ -129,15 +129,15 @@ zugreifen.
 ## Schritt 6. Verbessere dein Backup
 *Verbessere dein Backup, damit du bereit bist, falls der Preis steigt oder du dich entscheidest mehr zu kaufen.*
 
-1. Lese dazu den <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>.
+1. Lies dazu den <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>.
 2. Wählen ein Setup (z. B. zwei vollständige Backups, eines auf Papier und eines auf
 gestanztem Metall).
 3. Setze dein ausgewähltes Setup in die Tat um
 
 -----
 
-## Schritt 7. Lass eine Node laufen
-*Ziel: Verstehe, wie und warum Bitcoiner ihre eigenen Full-Nodes laufen lassen.*
+## Schritt 7. Betreibe eine Node
+*Ziel: Verstehe, wie und warum Bitcoiner ihre eigenen Full-Nodes betreiben.*
 
 Hinweis: Eine Full-Node kommt dir nur zugute, wenn du deine Node zum Senden und
 Empfangen von Transaktionen verwendest.
@@ -184,7 +184,7 @@ Empfangen von Transaktionen verwendest.
 *Ziel: Entdecke, wie du dich an Diskussionen über Bitcoin beteiligen kannst.*
 
 1. Nimm an einem <a href="https://bitcoin-only.com/#meetups" target="_blank">Meetup in deiner Nähe</a> teil.
-2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Abonniere</a> den Bitcoin Optech Newsletter.
+2. <a href="https://bitcoinops.org/de/newsletters/" target="_blank">Abonniere</a> den Bitcoin Optech Newsletter.
 3. Trete Twitter bei und folge Bitcoinern, auf die du stoßt.
 
 -----
