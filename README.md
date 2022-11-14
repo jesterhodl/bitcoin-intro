@@ -49,7 +49,7 @@
 | EUR       | <a href="https://bitonic.nl/" target="_blank">Bitonic</a> | 
 | EUR       | <a href="https://relai.ch/" target="_blank">Relai</a> | 
 | EUR       | <a href="https://www.stackinsat.com/" target="_blank">Stackinsat</a> | 
-| GBP       | <a href="https://coinfloor.co.uk/" target="_blank">Coinfloor</a> | 
+| GBP       | <a href="https://www.coincorner.com/" target="_blank">CoinCorner</a> | 
 | GBP       | <a href="https://xsats.com/" target="_blank">Xsats</a> | 
 | USD       | <a href="https://cash.app/" target="_blank">Cashapp</a> |
 | USD       | <a href="https://beta.strike.me/" target="_blank">Strike</a> |
