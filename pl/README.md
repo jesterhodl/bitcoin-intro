@@ -4,7 +4,7 @@
 | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a>
 | <a href="/pl/">Polski</a> |
 
-###### Zasady Przewodnie
+###### Zasady przewodnie
 - Zaczynanie od tego co proste i następnie doskonalenie jest lepsze niż niezaczynanie wcale
 - Bardziej wciągające jest użycie narzędzi niż najpierw czytanie szczegółowych wyjaśnień
 - Zawsze zachowuj pełną kontrolę nad swoimi bitcoinami (używaj narzędzi, które na to pozwalają)
@@ -20,7 +20,7 @@
 -----
 
 ## Krok 1. Zdobądź portfel
-*Cel: Utwórzyc portfel bitcoin i zróbić jego kopie zapasowe*
+*Cel: Utwórzyć portfel bitcoinowy i zróbić jego kopię zapasową*
 
 1. 	Pobierz <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">Samourai Wallet</a> dla Androida lub <a href="https://itunes.apple.com/app/bluewallet-bitcoin-wallet/id1376878040/" target="_blank">Blue Wallet</a> dla iOS.
 2.	Zrób nowy portfel i zapisz przedstawione słowa kopii zapasowej, używając długopisu i papieru. Te słowa działają jak klucz do dostępu do twoich bitcoinów.
@@ -30,7 +30,7 @@
 -----
 
 ## Krok 2. Kup trochę bitcoinów
-*Cel: Zdobądź małą ilość bitcoinów*
+*Cel: Zdobyć małą ilość bitcoinów*
 
 - Na początek kup tylko niewielką ilość bitcoinów (w późniejszym etapie poprawimy nadmiarowość kopii zapasowych).
 - Te zalecenia pozwalają na szybkie kupowanie bitcoinów kosztem zmniejszonej prywatności, kupowanie prywatne jest szczegółowo opisane w <a href="#krok-12-kupowanie-prywatnie" target="_blank">dalszym kroku.</a>
@@ -43,19 +43,21 @@
 | GLOBAL    | <a href="https://hodlhodl.com/" target="_blank">Hodl Hodl</a> |
 | AUD       | <a href="https://amber.app/" target="_blank">Amber</a> |
 | AUD       | <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo</a> |
+| AUD       | <a href="https://www.hardblock.com.au/" target="_blank">HardBlock</a> |
 | CAD       | <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a> |
 | CHF       | <a href="https://www.sbb.ch/en/station-services/at-the-station/services-from-the-ticket-machine/bitcoin.html" target="_blank">SBB</a> | 
+| CHF       | <a href="https://relai.app/" target="_blank">Relai</a> | 
 | EUR       | <a href="https://bitonic.nl/" target="_blank">Bitonic</a> | 
-| EUR       | <a href="https://relai.ch/" target="_blank">Relai</a> | 
+| EUR       | <a href="https://relai.app/" target="_blank">Relai</a> | 
 | EUR       | <a href="https://www.stackinsat.com/" target="_blank">Stackinsat</a> | 
-| GBP       | <a href="https://coinfloor.co.uk/" target="_blank">Coinfloor</a> | 
+| GBP       | <a href="https://www.coincorner.com/" target="_blank">CoinCorner</a> | 
 | GBP       | <a href="https://xsats.com/" target="_blank">Xsats</a> | 
 | USD       | <a href="https://cash.app/" target="_blank">Cashapp</a> |
 | USD       | <a href="https://beta.strike.me/" target="_blank">Strike</a> |
 | USD       | <a href="https://www.swanbitcoin.com/" target="_blank">Swan</a> |
 | VND       | <a href="https://vbtc.exchange/" target="_blank">Vbtc</a> |
 
-Gratulacje, teraz oficjalnie posiadasz trochę BTC. Dopóki będziesz chronić kopię zapasową swojego portfela, nikt nie może z niego ukraść środków. Bez tych słów (znanych jako słowa wyjściowe lub klucz prywatny) nikt nie może uzyskać dostępu do Twojego portfela.
+Gratulacje, teraz oficjalnie posiadasz trochę BTC. Dopóki będziesz chronić kopię zapasową swojego portfela, nikt nie może z niego ukraść środków. Bez tych słów (znanych jako seed lub klucz prywatny) nikt nie może uzyskać dostępu do Twojego portfela.
 
 -----
 
@@ -63,9 +65,9 @@ Gratulacje, teraz oficjalnie posiadasz trochę BTC. Dopóki będziesz chronić k
 *Cel: Dowiedzieć się dlaczego bitcoin jest przydatny*
 
 1. Obejrzyj <a href="https://www.hardmoneyfilm.com/" target="_blank">Hard Money Film</a> (30m)
-1. Przeczytaj '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' autorstwa [Wiz](https://twitter.com/wiz)
-2. Przeczytaj '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' autorstwa [Vijay Boyapati](https://twitter.com/real_vijay)
-3. Obejrzyj '<a href="https://www.youtube-nocookie.com/embed/q0XxsabgJEI" target="_blank">Why Bitcoin Matters</a>' autorstwa [Aleks Svetski](https://twitter.com/AleksSvetski) (1h)
+2. Przeczytaj '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' autorstwa [Wiz](https://twitter.com/wiz)
+3. Przeczytaj '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' autorstwa [Vijay Boyapati](https://twitter.com/real_vijay)
+4. Obejrzyj '<a href="https://www.youtube-nocookie.com/embed/q0XxsabgJEI" target="_blank">Why Bitcoin Matters</a>' autorstwa [Aleks Svetski](https://twitter.com/AleksSvetski) (1h)
 
 -----
 
@@ -95,18 +97,18 @@ Gratulacje, teraz oficjalnie posiadasz trochę BTC. Dopóki będziesz chronić k
 -----
 
 ## Krok 6. Lepsze kopie zapasowe
-*Cel: Usprawnij swoje kopie zapasowe w razie gdy cena bitcoina wzrośnie lub zdecydujesz się kupić więcej.*
+*Cel: Usprawnić swoje kopie zapasowe w razie gdy cena bitcoina wzrośnie lub zdecydujesz się kupić więcej.*
 
 1. Sprawdź ścieżkę derywacji używaną przez Twój portfel na [walletsrecovery.org] (https://walletsrecovery.org/) i dodaj tę informację do swoich kopii zapasowych
 2. Zrób dodatkową kopię zaposową poprzez <a href="https://www.econoalchemist.com/post/backup" target="_blank">wybicie jej na metalu</a>
-3. Przeczytaj cały <a href="https://bitcoin-intro.com/en/backup" target="_blank">przewodnik po kopiach zapasowych</a> na  bitcoin-intro
+3. Przeczytaj cały <a href="https://bitcoin-intro.com/en/backup" target="_blank">przewodnik po kopiach zapasowych</a> na bitcoin-intro
 
 -----
 
-## Krok 7. Prowadzenie własnego węzła sieci
-*Cel: Dowiedzieć się jak i dlaczego bitcoinowcy prowadzą własne węzły sieci.*
+## Krok 7. Prowadzenie własnego węzła
+*Cel: Dowiedzieć się jak i dlaczego bitcoinowcy prowadzą własne węzły.*
 
-Uwaga: prowadzenie węzła przynosi korzyści tylko wtedy, gdy używasz węzła do wysyłania i odbierania transakcji.
+Uwaga: prowadzenie węzła przynosi korzyści tylko wtedy, gdy używasz go do wysyłania i odbierania transakcji.
 
 1. Obejrzyj <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a> (5m)
 2. Jeśli potrzebujesz tylko portfela stacjonarnego, po prostu zainstaluj bitcoin core na zwykłym komputerze.
@@ -132,7 +134,7 @@ Uwaga: prowadzenie węzła przynosi korzyści tylko wtedy, gdy używasz węzła 
 -----
 
 ## Krok 8. Dołącz do ludzi
-*Cel: Dowiedzieć się, jak zaangażować się w dyskusje na temat bitcoinów.*
+*Cel: Dowiedzieć się, jak zaangażować się w dyskusje na temat bitcoina.*
 
 1. Przyjdź na <a href="https://bitcoin-only.com/#meetups" target="_blank">lokalny meetup</a>
 2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Zasubskrybuj</a> newsletter bitcoin op-tech
@@ -148,21 +150,21 @@ Uwaga: prowadzenie węzła przynosi korzyści tylko wtedy, gdy używasz węzła 
 
 -----
 
-## Krok 10. Mikro płatności w Bitcoin
-*Cel: Dowiedzieć się czym jest sieć lightning i jak możesz jej używać.*
+## Krok 10. Mikropłatności w Bitcoin
+*Cel: Dowiedzieć się czym jest sieć Lightning i jak możesz jej używać.*
 
-1. Pobierz portfel bitcoin dający pełną kontrolę z obsługą sieci lightning
+1. Pobierz portfel bitcoin dający pełną kontrolę z obsługą sieci Lightning
 2. Prześlij na niego trochę bitcoinów (małą ilość)
-3. Wyślij bitcoin poprzez lightning
+3. Wyślij bitcoin poprzez Lightning
 4. Obejrzyj <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a> (15m)
-5. Przeczytaj <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> jako porównanie do protokołu TCP/IP (fragment <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+5. Przeczytaj <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> jako porównanie do protokołu TCP/IP (fragment <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 
 -----
 
 ## Krok 11. Szczegóły techniczne
-*Cel: Głębsze zrozumienie jak działa bitcoin i poznać terminologię*
+*Cel: Zrozumieć głębiej jak działa Bitcoin i poznać terminologię*
 
-1. Obejrzy <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a> (30m)
+1. Obejrzyj <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a> (30m)
 2. Obejrzyj <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a> (22m)
 
 -----
